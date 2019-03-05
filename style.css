@@ -1,0 +1,91 @@
+body
+{
+	  font-family: 'Righteous', cursive;
+	  background-color: #3b3b3b;
+	  color:white;
+	  font-size:24px;
+	  padding: 0;
+	  margin: 0;
+}
+
+#buttonCont
+{
+	
+}
+
+button
+{
+	height: 100px;
+	width: 200px;
+	background-color: #4CAF50;
+	border: none;
+	text-align:center;
+	color:white;
+	font-family: 'Righteous', cursive;
+}
+
+h1
+{
+	font-size:48px;
+	text-align: center;
+	margin:0;
+	letter-spacing: 10px;	
+	color: #1bcd0d;
+	background-color:#133337;
+	width:100%;
+	
+}
+
+#opis
+{
+	text-align:center;	
+	margin-top:10px;
+	color:white;
+	letter-spacing:0px;
+}
+
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+
+}
+
+#board
+{
+
+	margin-top:40px;
+	border: 10px dotted #133337;
+	height:480px;
+	width:800px;
+	margin-left: 90px;
+	margin-right: 90px;
+	
+	
+}
+
+#aboutProject
+{
+	width:50%;
+	
+	float:left;
+	
+	
+}
+
+#aboutAuthor
+{
+	width:50%;
+	
+	float:left;
+	
+}
+
+#footer
+{
+	
+	width:100%;
+	
+}
